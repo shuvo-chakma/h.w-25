@@ -1,0 +1,56 @@
+.wrapper{
+    width :60%;
+    margin:0 auto;
+    border: 5px solid #ddd;
+}
+
+.label{
+    font-size:40px ;
+}
+
+.first_name{
+    width: 90%;
+    height: 20px;
+    padding :10px;
+    font-size: 18;
+}
+.last_name{
+    width: 90%;
+    height: 20px;
+    padding :10px;
+    font-size: 18;
+}
+.mobile_number{
+    width: 90%;
+    height: 20px;
+    padding :10px;
+    font-size: 18;
+}
+.gmail{
+    width: 90%;
+    height: 20px;
+    padding :10px;
+    font-size: 18;
+}
+.password{
+    width: 90%;
+    height: 20px;
+    padding :10px;
+    font-size: 18;
+}
+.b_o_d{
+    width: 90%;
+    height: 20px;
+    padding :10px;
+    font-size: 18
+}
+#one{
+    text-align: center;   
+}
+#ok{
+    text-align: center;
+
+}
+.one{
+    text-align: center; background-color: bisque;
+}
